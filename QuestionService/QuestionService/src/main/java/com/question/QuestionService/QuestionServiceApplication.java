@@ -10,6 +10,7 @@ public class QuestionServiceApplication {
 	{
 		SpringApplication.run(QuestionServiceApplication.class, args);
 		System.out.println("Application Started...********************");
+		System.out.println("Welcome to the Microservice Tutorials");
 	}
 
 }
